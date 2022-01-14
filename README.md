@@ -7,7 +7,6 @@
 - 2022 Goals: Contribute more to Open Source projects 🖥️⌨️
 - Fun fact: I love reading russian literature 📖👓
 
-<hr />
 ### connect with me 📞
 
 <a target="_blank" href="https://www.linkedin.com/in/amr-ashour-8b3aab213/">
@@ -18,7 +17,6 @@
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
-<hr />
 
 ### Languages and Tools🧰
 
