@@ -1,11 +1,11 @@
-# Hi there, i am Amr Ashour. 👋
+# Hi there, I am Amr Ashour. 👋🧔
 
-## I'm a Developer and Translator!!
+## I'm a Developer and Translator!!👓🔍📝⌨️
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love reading russian literature :book:
+- I’m currently learning everything 🤣🔍
+- I’m looking to collaborate with other developers 👯
+- 2022 Goals: Contribute more to Open Source projects 🖥️⌨️
+- Fun fact: I love reading russian literature 📖👓
 
 ### connect with me
 
