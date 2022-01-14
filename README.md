@@ -26,7 +26,8 @@
 <span><img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></span>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>
-<img align="left" alt="BOOTSTRAP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-<img align="left" alt="GRAPHQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<span><img align="left" alt="BOOTSTRAP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /></span>
+<span><img align="left" alt="GRAPHQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+</span>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></span>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
