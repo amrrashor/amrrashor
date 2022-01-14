@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there, i am Amr Ashour. 👋
 
+### I'm a Developer and Translator!!
 <!--
 **amrrashor/amrrashor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
