@@ -1,4 +1,4 @@
-# Hi there, I am Amr Ashour. 👋🧔
+# Hi there, I am Amr Ashour. 👋🧔🐺
 
 ## I'm a Developer and Translator!!👓🔍📝⌨️
 
@@ -20,7 +20,6 @@
 <br />
 
 ### Languages and Tools 🛠️🔧⛓️
-
 
 <span><img  alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></span>
 <span><img  alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></span>
