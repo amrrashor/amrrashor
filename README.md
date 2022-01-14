@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love reading russian literature
+- ⚡ Fun fact: I love reading russian literature :book:
 
 ### connect with me
 
