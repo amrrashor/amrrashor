@@ -7,7 +7,7 @@
 - 2022 Goals: Contribute more to Open Source projects 🖥️⌨️
 - Fun fact: I love reading russian literature 📖👓
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrrashor&count_private=true&show_icons=true)](https://github.com/amrrashor/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrrashor&count_private=true&show_icons=true&theme=radical)](https://github.com/amrrashor/github-readme-stats)
 ### Connect with Me 📞
 
 <a target="_blank" href="https://www.linkedin.com/in/amr-ashour-8b3aab213/">
