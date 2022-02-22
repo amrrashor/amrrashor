@@ -8,18 +8,12 @@
 - Fun fact: I love reading russian literature 📖👓
 
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 ![amrrashor's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrrashor&show_icons=true&theme=radical)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrrashor&show_icons=true&theme=radical&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrrashor&show_icons=true&theme=radical&langs_count=8&layout=compact)]
 ### Languages and Tools 🛠️🔧⛓️
 
 <span><img  alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></span>
