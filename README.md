@@ -28,6 +28,8 @@
 <span><img  alt="TERMINAL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
 <span><img width="46px" alt="NODE-JS" src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" /></span>
 <span><img width="46px"  alt="NODE-JS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlRdhqlHl7OHudFxRWTSm8gDQbAa5xijIKJ2sE8gVmNYjtaWBfGNkdWPrYYgxSlVKShA&usqp=CAU" /></span>
+<span><img width="46px"  alt="NODE-JS" src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png" /></span>
+<span><img width="46px"  alt="NODE-JS" src="https://camo.githubusercontent.com/640cf0782f4cf5d27164f8befdba3183d5e304f8a1d5812e7d25f32dffd6f04b/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f737461727475702d6772696e642f696d6167652f75706c6f61642f635f66696c6c2c6470725f322e302c665f6175746f2c675f63656e7465722c685f313038302c715f3130302c775f313038302f76312f6763732f706c6174666f726d2d646174612d6473632f6576656e74732f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" /></span>
 ### Connect with Me 📞
 
 <a target="_blank" href="https://www.linkedin.com/in/amr-ashour-8b3aab213/">
