@@ -9,8 +9,6 @@
 
 <br />
 
-![amrrashor's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrrashor&show_icons=true&theme=radical)
-
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrrashor&show_icons=true&theme=radical&langs_count=8&layout=compact)
