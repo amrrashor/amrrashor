@@ -4,7 +4,7 @@
 
 - I’m currently learning everything 🤣🔍
 - I’m looking to collaborate with other developers 👯🧑‍🤝‍🧑
-- 2023 Goals: Make a great portfolio 🖥️⌨️
+- 2024 Goals: Make a great portfolio and contribute to open source projects 🖥️⌨️
 - Fun fact: I love reading russian literature 📖👓
 
 <br />
